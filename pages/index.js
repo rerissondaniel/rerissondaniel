@@ -11,7 +11,7 @@ export default function Home() {
         <h1 className="title">Oi!</h1>
 
         <p className="description">
-          I'm Rerisson Matos, a curious Software Engineer
+          I'm Rerisson, a curious Software Engineer
         </p>
 
         {/* <a
